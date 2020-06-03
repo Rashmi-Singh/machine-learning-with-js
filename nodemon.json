@@ -1,0 +1,4 @@
+{
+    "watch": ["src/index.html"],
+    "ext": "html"
+  }
